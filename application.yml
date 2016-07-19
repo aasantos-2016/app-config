@@ -13,3 +13,8 @@ logging:
       
 ribbon:
   IsSecure: false
+  
+spring:
+  cloud:
+    services:
+      registrationMethod: router
