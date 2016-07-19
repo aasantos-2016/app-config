@@ -17,4 +17,4 @@ ribbon:
 spring:
   cloud:
     services:
-      registrationMethod: router
+      registrationMethod: direct
